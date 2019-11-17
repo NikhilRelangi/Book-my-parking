@@ -1,4 +1,3 @@
-# BMP_Demo
 BookMyParking using ultrasonic sensor.
 
 Parking Space Detection and Booking Using Ultrasonic Sensor
